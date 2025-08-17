@@ -1,4 +1,4 @@
-# Serverless Web Application on AWS
+# To Build Serverless Web Application on AWS
 
 ## Project Name: Serverless Web Application on AWS
 
