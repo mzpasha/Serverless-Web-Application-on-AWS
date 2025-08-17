@@ -23,7 +23,7 @@ Upon completing the project, I will have a working serverless web application ho
 You will have hands-on experience building a serverless application using AWS Lambda, DynamoDB, S3, CloudFront. \
 Additionally, you will have experience working with AWS services and integrating them to build a complete solution.
 
-<img width="1280" height="720" alt="Serverless-Web-Application-on-AWS" src="https://github.com/user-attachments/assets/07e2e533-2af5-408b-9d0b-60e946a6fbe0" />
+<img width="1362" height="529" alt="Greeting Page with number of views" src="https://github.com/user-attachments/assets/d45b1447-4f02-401d-94e8-ca778d1c5bdb" />
 
 
 
